@@ -1,3 +1,5 @@
+[MeteoSwiss - Open Data](https://github.com/MeteoSwiss/opendata/blob/main/README.md) > [General information](https://github.com/MeteoSwiss/opendata/blob/main/README.md#general-information) > API
+
 # <!-- Getting started with --> API
 
 Most of MeteoSwiss's Open Data will become available via the [OGC API - Features](https://ogcapi.ogc.org/features/) of the [Federal Spatial Data Infrastructure (FSDI)](https://www.geo.admin.ch/en/federal-spatial-data-infrastructure-fsdi).
